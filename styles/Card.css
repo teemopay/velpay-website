@@ -1,0 +1,48 @@
+.custom-card-one {
+  background: var(--color--1C2025);
+  border-radius: 16px;
+  height: 412px;
+  padding: 78px 113px 0 53px;
+  margin-bottom: 22px;
+  color: blue;
+}
+.custom-card-one:last-child {
+  margin-bottom: 0;
+}
+
+.figure {
+  min-width: 187px;
+}
+
+.figure > * {
+  transition: 0.4s;
+}
+
+.figure:hover .figure-img {
+  transform: scale(1.2);
+}
+
+.step-card-icon svg {
+  width: 34px;
+  height: 34px;
+}
+
+.step-card-icon svg * {
+  fill: #defe66;
+  transition: fill 0.3s ease;
+}
+
+.step-card-hover:hover .step-card-icon svg * {
+  fill: #000000;
+}
+
+.step-card-hover:hover .home-step-bg {
+  background: linear-gradient(180deg, #defe66 0%, #b0d840 100%);
+}
+
+@media (max-width: 767px) {
+  .step-card-icon svg {
+    width: 28px;
+    height: 28px;
+  }
+}
