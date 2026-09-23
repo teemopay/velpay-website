@@ -340,7 +340,7 @@ const PaymentDemo = () => {
           ></InextImage>
           <div className="absolute inset-0  flex items-center justify-center">
             <div className="relative w-[56px]  md:w-[102px] ripple-css">
-              <div className="ripple-css-ripple">
+              <div className="hidden lg:block ripple-css-ripple">
                 <i></i>
               </div>
               <svg
