@@ -49,7 +49,7 @@ export const CardOne = () => {
           <FadeIn className="mb-[16px] last:mb-0 cursor-pointer" key={i.id}>
             <div
               className={cn(
-                "flex justify-between items-center  bg-[#22251C] rounded-[16px]",
+                "flex justify-between items-center  bg-[#22251C] rounded-[40px]",
                 "group shadow transition-all duration-500 ease-out hover:border-[#DEFE66] hover:shadow-md hover:shadow-[#DEFE66] border border-transparent",
                 mobileStyle,
                 webStyle,

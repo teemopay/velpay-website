@@ -144,7 +144,7 @@ export const ViewOne = ({ defaultSelected }: { defaultSelected: string }) => {
                 }}
                 transition={{ duration: 0.5, delay: index * 0.1 }}
                 className={cn(
-                  "overflow-hidden relative group w-full  h-[68px] px-[20px] md:px-0 md:w-[115px] md:h-[108px] border border-[#BFE44C] rounded-[16px] bg-[rgba(193,230,78,0.4)] hover:border-[#22B773]",
+                  "overflow-hidden relative group w-full  h-[68px] px-[20px] md:px-0 md:w-[115px] md:h-[108px] border border-[#BFE44C] rounded-[16px] bg-[rgba(193,230,78,0.4)] hover:border-[#DEFE66]",
                   commStyle2,
                   isSelected &&
                     "bg-[linear-gradient(180deg,#DEFE66_0%,#B0D840_100%)] border-[linear-gradient(180deg,#DEFE66_0%,#B0D840_100%)] text-[#000000] font-bold",

@@ -32,7 +32,7 @@ export const FooterBlock = () => {
                 KOWLOON, HONG KONG
                 <br />
                 <a className="text-white" href="mailto:service@vellpay.com">
-                  Email:service@vellpay.com
+                  Email：service@vellpay.com
                 </a>
               </div>
             </div>

@@ -25,7 +25,7 @@ const hoverStyle =
   "group shadow transition-all duration-700 ease-out   hover:shadow-md hover:shadow-[#DEFE66] cursor-pointer";
 
 const link =
-  "https://www.figma.com/proto/JFs7TlHPFEK2udJAtrh6Hj/Vellpay-Payin-Demo?page-id=0%3A1&node-id=43-2628&p=f&viewport=315%2C288%2C0.02&t=2pmwJfjtumjI0GZM-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=43%3A2628";
+  "https://www.figma.com/proto/21icNIIl4L56QQqqwnimB4/payin-demo?page-id=2258%3A15527&node-id=3041-24154&viewport=-11834%2C-12664%2C0.31&t=MLTqgZ21FPOXZSEv-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=3041%3A24154";
 
 const TitleItem = ({
   title,
@@ -303,7 +303,7 @@ const PaymentDemo = () => {
         />
       </FadeIn>
 
-      <FadeIn className="lg:flex mb-[29px]  lg:mb-[98px] home-bg-demo border border-[#DEFE66]  p-[15px] pt-[25px] lg:p-[20px] rounded-[16px]">
+      <FadeIn className="lg:flex mb-[29px]  lg:mb-[98px] home-bg-demo border border-[#DEFE66]  p-[15px] pt-[25px] lg:p-[20px] rounded-[28px]">
         <div className="flex-1 lg:px-[29px] flex items-start justify-center flex-col">
           <div className="font-bold text-[14px]  lg:text-[36px] text-[#fff] lg:max-w-[280px] mb-[16px] lg:mb-[39px] 2xl:max-w-full">
             Payment Guide Video
@@ -319,7 +319,7 @@ const PaymentDemo = () => {
           href="https://drive.google.com/drive/folders/1PPM2Dq_-7-ITnLxPVxaTtEZ9R5u71hb_?usp=sharing"
         >
           <InextImage
-            className=" lg:max-w-[561px] 2xl:max-w-[800px]"
+            className=" lg:max-w-[561px] 2xl:max-w-[800px] rounded-[20px]"
             alt="aml"
             height={744}
             src="/images/home/demo.png"
@@ -441,7 +441,7 @@ const PaymentDemo = () => {
             }
           >
             <div className="bg-[#22251C] rounded-[16px]">
-              <div className="pt-[17px] pb-[25px] md:pt-[30px] md:pb-[22px] px-[12px] md:px-[50px]">
+              <div className="pt-[17px] pb-[25px] md:pt-[30px] md:pb-[22px] px-[12px] md:px-[50px] min-h-[325px]">
                 <InextImage
                   className="mx-auto"
                   alt="aml"

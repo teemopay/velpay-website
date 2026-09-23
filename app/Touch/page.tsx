@@ -201,10 +201,11 @@ export default function AboutPage() {
                       base: [
                         "rounded-sm",
                         "text-[16px]",
-                        "data-[hover=true]:text-[#DEFE66]",
+                        "data-[hover=true]:text-[#1A1A18]",
                         "data-[hover=true]:bg-default-100",
                         "dark:data-[hover=true]:bg-[#DEFE66]",
                         "data-[selectable=true]:focus:bg-[#DEFE66]",
+                        "data-[selectable=true]:focus:text-[#1A1A18]",
                         "data-[pressed=true]:opacity-1",
                       ],
                     },
@@ -237,10 +238,11 @@ export default function AboutPage() {
                       base: [
                         "rounded-sm",
                         "text-[16px]",
-                        "data-[hover=true]:text-[#DEFE66]",
+                        "data-[hover=true]:text-[#1A1A18]",
                         "data-[hover=true]:bg-default-100",
                         "dark:data-[hover=true]:bg-[#DEFE66]",
                         "data-[selectable=true]:focus:bg-[#DEFE66]",
+                        "data-[selectable=true]:focus:text-[#1A1A18]",
                         "data-[pressed=true]:opacity-1",
                       ],
                     },
@@ -275,10 +277,11 @@ export default function AboutPage() {
                       base: [
                         "rounded-sm",
                         "text-[16px]",
-                        "data-[hover=true]:text-[#DEFE66]",
+                        "data-[hover=true]:text-[#1A1A18]",
                         "data-[hover=true]:bg-default-100",
                         "dark:data-[hover=true]:bg-[#DEFE66]",
                         "data-[selectable=true]:focus:bg-[#DEFE66]",
+                        "data-[selectable=true]:focus:text-[#1A1A18]",
                         "data-[pressed=true]:opacity-1",
                       ],
                     },
@@ -313,10 +316,11 @@ export default function AboutPage() {
                     base: [
                       "rounded-sm",
                       "text-[16px]",
-                      "data-[hover=true]:text-[#DEFE66]",
+                      "data-[hover=true]:text-[#1A1A18]",
                       "data-[hover=true]:bg-default-100",
                       "dark:data-[hover=true]:bg-[#DEFE66]",
                       "data-[selectable=true]:focus:bg-[#DEFE66]",
+                      "data-[selectable=true]:focus:text-[#1A1B19]",
                       "data-[pressed=true]:opacity-1",
                     ],
                   },
@@ -340,6 +344,10 @@ export default function AboutPage() {
                 name="service"
               >
                 <Checkbox
+                  classNames={{
+                    wrapper: "after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
+                  }}
                   value="LatinAmercia"
                   radius="sm"
                   className="mr-[20px] md:mr-[70px]"
@@ -350,6 +358,10 @@ export default function AboutPage() {
                   </span>
                 </Checkbox>
                 <Checkbox
+                  classNames={{
+                    wrapper: "after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
+                  }}
                   value="MiddleEast"
                   radius="sm"
                   className="mr-[20px] md:mr-[70px]"
@@ -360,6 +372,10 @@ export default function AboutPage() {
                   </span>
                 </Checkbox>
                 <Checkbox
+                  classNames={{
+                    wrapper: "after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
+                  }}
                   value="Asia"
                   radius="sm"
                   className="mr-[20px] md:mr-[70px]"
@@ -368,6 +384,10 @@ export default function AboutPage() {
                   <span className="text-[12px] md:text-[18px]"> Asia</span>
                 </Checkbox>
                 <Checkbox
+                  classNames={{
+                    wrapper: "after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
+                  }}
                   value="Africa"
                   radius="sm"
                   className="mr-[20px] md:mr-[70px]"
@@ -376,6 +396,10 @@ export default function AboutPage() {
                   <span className="text-[12px] md:text-[18px]">Africa</span>
                 </Checkbox>
                 <Checkbox
+                  classNames={{
+                    wrapper: "after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
+                  }}
                   value="NorthAmerica"
                   radius="sm"
                   className="mr-[20px] md:mr-[70px]"
@@ -386,7 +410,15 @@ export default function AboutPage() {
                     North America
                   </span>
                 </Checkbox>
-                <Checkbox value="Europe" radius="sm" size="sm">
+                <Checkbox
+                  value="Europe"
+                  radius="sm"
+                  size="sm"
+                  classNames={{
+                    wrapper: "after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
+                  }}
+                >
                   <span className="text-[12px] md:text-[18px]"> Europe</span>
                 </Checkbox>
               </CheckboxGroup>
@@ -417,7 +449,8 @@ export default function AboutPage() {
                   className="leading-[21px]"
                   classNames={{
                     base: "items-start",
-                    wrapper: "w-[16px] h-[16px] rounded-sm",
+                    wrapper: "w-[16px] h-[16px] rounded-sm after:bg-[#DEFE66]",
+                    icon: "text-[#1A1A18]",
                   }}
                   value={"true"}
                 >

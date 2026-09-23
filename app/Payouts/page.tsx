@@ -159,12 +159,9 @@ export default function PayputsPage() {
             >
               <div className="flex-1 2xl:max-w-[50%] mb-[22px] lg:mb-0">
                 <MediumFiftyTitle
-                  title="Servicio Manual Respuesta en Cualquier hora"
-                  sub=" 24/7 Manual Service & Dedicated Support"
-                  tip=" Our professional team provides round-the-clock assistance for
-                  exchange transactions. Beyond technical support, we offer
-                  personalized guidance to ensure seamless and worry-free currency
-                  conversion – wherever you are, whenever needed."
+                  title="PAYMENT OPERATIONS SUPPORT"
+                  sub="24/7 Manual Service & Dedicated Support"
+                  tip="Our professional team provides round-the-clock assistance for payment operations. Beyond technical support, we offer personalized guidance to help ensure seamless and reliable payment experiences – wherever you are, whenever needed."
                 />
               </div>
               <div className="overflow-hidden flex-1">
@@ -726,11 +723,11 @@ const ThreeItem = () => {
         )}
       >
         <div className="text-[20px] leading-[24px] md:text-[24px] md:leading-[30px] font-medium mb-[10px] lg:mb-[61px]">
-          Transparent and competitive fees
+          Clear and efficient fund management
         </div>
         <div className="text-[12px] leading-[18px] mb-[34px] lg:mb-[40px] max-w-[726px] text-[#D1D1D1]">
-          We offer low fees and transparent exchange rates to reduce your
-          overall payment costs.
+          We provide real-time account visibility and streamlined fund
+          management to simplify your daily payment operations.
         </div>
         <InextImage
           className="w-full"

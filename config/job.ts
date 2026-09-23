@@ -20,48 +20,48 @@ export const JobsObj = {
       },
     ],
     description:
-      "We are looking for an experienced Senior Global Business Development Manager to expand and maintain partnerships in global exchanges, forex, gaming, and betting industries, driving the growth of our payment platform and currency settlement business. Based primarily in Dubai, this role will focus on global market expansion, requiring strong industry insights, business development expertise, and cross-cultural communication skills.",
+      "We are looking for an experienced Senior Global Business Development Manager to expand and maintain partnerships across global payment markets, driving the growth of our payment platform and localized PayIn and PayOut solutions. Based primarily in Indonesia, this role will focus on global market expansion and strategic partnership development, requiring strong industry insights, business development expertise, and cross-cultural communication skills.",
     Responsibilities: [
-      `<span style='font-weight:600;color:#fff'>1.Market Expansion: </span>Identify and develop business opportunities in global exchanges, forex, gaming, and betting industries, securing partnerships to integrate payment and settlement solutions.`,
-      `<span style='font-weight:600;color:#fff'>2.Business Negotiation: </span>Establish and maintain strong relationships with global partners, negotiate commercial agreements, and ensure seamless execution of payment solutions.`,
-      `<span style='font-weight:600;color:#fff'>3.Industry Analysis: </span>Conduct in-depth research on global payment, settlement, and forex markets, providing strategic insights for business decisions.`,
-      `<span style='font-weight:600;color:#fff'>4.Cross-Team Collaboration: </span>Work closely with product, technology, compliance, and operations teams to optimize payment and settlement solutions, enhancing customer experience.`,
-      `<span style='font-weight:600;color:#fff'>5.Client Management: </span>Monitor key clients' needs, optimize cooperation models, and improve retention and transaction volume.`,
-      `<span style='font-weight:600;color:#fff'>6.Risk Management: </span>Identify and assess regulatory and policy risks in the industry to ensure business compliance, security, and stable development.`,
+      `<span style='font-weight:600;color:#fff'>1.Market Expansion: </span>Identify and develop business opportunities across global payment markets, building strategic partnerships and expanding the adoption of Vellpay’s localized PayIn and PayOut solutions.`,
+      `<span style='font-weight:600;color:#fff'>2.Business Negotiation: </span>Establish and maintain strong relationships with global partners, negotiate commercial agreements, and support the effective implementation of payment solutions.`,
+      `<span style='font-weight:600;color:#fff'>3.Industry Analysis: </span>Conduct in-depth research on global payment markets, local payment ecosystems, and industry trends, providing strategic insights to support business decisions.`,
+      `<span style='font-weight:600;color:#fff'>4.Cross-Team Collaboration: </span>Work closely with product, technology, compliance, and operations teams to optimize payment solutions and enhance the overall customer experience.`,
+      `<span style='font-weight:600;color:#fff'>5.Client Management: </span>Understand key clients’ business and payment needs, optimize cooperation models, strengthen long-term relationships, and support sustainable business growth.`,
+      `<span style='font-weight:600;color:#fff'>6.Risk Management: </span>Identify and assess relevant regulatory, compliance, and market risks to support secure, compliant, and sustainable business development.`,
     ],
     Requirements: `<div style='font-weight:600;margin-bottom:5px;color:#fff'>1.Experience: : </div>
       <ul style="list-style-type: disc; padding-left: 20px;margin-bottom:5px">
       <li>
-       5+ years of business development or sales experience, with strong networks in cross-border payments, fintech, forex, gaming, or betting industries.
+       5+ years of business development or sales experience, preferably with strong networks in cross-border payments, fintech, payment platforms, or related industries.
       </li>
       <li>
-      Deep understanding of global exchanges and the payment settlement ecosystem.
+       Deep understanding of global payment markets, local payment ecosystems, and cross-border payment operations.
       </li>
       </ul>
       <div style='font-weight:600;margin-bottom:5px;color:#fff'>2.Skills: 
       </div>
       <ul style="list-style-type: disc; padding-left: 20px;margin-bottom:5px">
       <li>Strong negotiation and business development skills, with the ability to independently drive large-scale partnership projects.</li>
-      <li>Sharp market insight, capable of responding quickly to industry changes and adjusting strategies accordingly.</li>
-      <li>Excellent cross-cultural communication skills, adaptable to international business environments.</li>
+      <li>Sharp market insight, with the ability to respond quickly to industry changes and adjust business strategies accordingly.</li>
+      <li>Excellent cross-cultural communication skills and the ability to work effectively in international business environments.</li>
       </ul>
       <div style='font-weight:600;margin-bottom:5px;color:#fff'>3.Language Proficiency :
       </div>
       <ul style="list-style-type: disc; padding-left: 20px;margin-bottom:5px">
       <li>
-      Fluent in English (working language); proficiency in Chinese, Arabic, or Spanish is a plus.
+      Fluent in English as a working language; proficiency in Chinese, Arabic, or Spanish is a plus.
       </li>
       </ul>
       <div style='font-weight:600;margin-bottom:5px;color:#fff'>4.Preferred Qualifications: 
       </div>
       <ul style="list-style-type: disc; padding-left: 20px;margin-bottom:5px">
-        <li>Business development experience in Dubai or the Middle East.</li>
-        <li>Knowledge in overseas payments, compliance, and fintech.</li>
-        <li>Experience in global payment platforms, cryptocurrency settlements, or currency exchange businesses.</li>
+        <li>Business development experience in Southeast Asia, the Middle East, or other international markets.</li>
+        <li>Knowledge of cross-border payments, compliance, and fintech.</li>
+        <li>Experience working with global payment platforms, local payment methods, PayIn and PayOut solutions, or payment infrastructure is preferred.</li>
       </ul>`,
     Compensation: `<ul style="list-style-type: disc; padding-left: 20px;margin-bottom:5px;font-weight:600">
     <li>Competitive salary + performance-based bonuses</li>
-    <li>Dubai work visa and related benefits</li>
+    <li>Indonesia work visa and related benefits</li>
     <li>Global career development opportunities</li>
     <li>Open and dynamic team culture, fostering innovation and rapid growth</li>
     </ul>
@@ -110,7 +110,7 @@ export const JobsObj = {
       `<span style='font-weight:600;color:#fff'>2.Color Scheme & Visual Identity:  </span>Define and implement the overall color palette, typography, and style to maintain a consistent brand identity.`,
       `<span style='font-weight:600;color:#fff'>3.User Interface Design:  </span>Develop high-quality UI components, icons, and layouts to improve usability and visual appeal.`,
       `<span style='font-weight:600;color:#fff'>4.Collaboration:  </span>Work with product managers, developers, and other designers to translate business needs into functional and attractive designs.`,
-      `<span style='font-weight:600;color:#fff'>5.Prototyping & Iteration:  </span>Design interactive wireframes and prototypes, gather feedback, and refine designs based on user and stakeholder input.`,
+      `<span style='font-weight:600;color:#fff'>5.Prototyping & Iteration:  </span> Design interactive wireframes and prototypes, gather feedback, and refine designs based on user and stakeholder input.`,
       `<span style='font-weight:600;color:#fff'>6.Responsive & Mobile Design:  </span>Ensure designs are fully optimized for various screen sizes and devices.`,
     ],
     Requirements: `<div style='font-weight:600;margin-bottom:5px;color:#fff'>1.Experience: </div>
@@ -195,7 +195,7 @@ export const JobsObj = {
       `<span style='font-weight:600;color:#fff'>3.Regulatory Liaison: </span>Establish and maintain strong relationships with global and local regulatory authorities to ensure compliance across different jurisdictions.`,
       `<span style='font-weight:600;color:#fff'>4.AML & KYC Supervision: </span>Oversee and optimize AML/KYC processes, ensuring the effectiveness of customer identity verification and transaction monitoring systems.`,
       `<span style='font-weight:600;color:#fff'>5.Internal Audits & Training: </span>Develop internal audit plans, regularly assess risk and compliance frameworks, and provide compliance training to employees.`,
-      `<span style='font-weight:600;color:#fff'>6.Transaction Monitoring: </span>Implement and refine transaction monitoring mechanisms to detect suspicious activities and develop corresponding response strategies.`,
+      `<span style='font-weight:600;color:#fff'>6.Transaction Monitoring: </span> Implement and refine transaction monitoring mechanisms to detect suspicious activities and develop corresponding response strategies.`,
       `<span style='font-weight:600;color:#fff'>7.Policy Updates: </span>Stay updated on global compliance trends (FATF, OFAC, GDPR, etc.) and ensure timely updates to the company’s risk and compliance policies.`,
       `<span style='font-weight:600;color:#fff'>8.Cross-Department Collaboration: </span>Work closely with product, technology, operations, and legal teams to implement compliance requirements and maintain secure business operations.`,
     ],
@@ -219,8 +219,8 @@ export const JobsObj = {
     <div style='font-weight:600;margin-bottom:5px;color:#fff'>4.Preferred Qualifications:</div>
     <ul style="list-style-type: disc; padding-left: 20px">
     <li>Relevant certifications (CAMS, CFE, CISA, CIPP/E, etc.).</li>
-    <li>Experience in compliance or risk management within the Dubai or Middle East market.</li>
-    <li>Familiarity with blockchain payments and digital currency compliance policies.</li>
+    <li>Experience in compliance or risk management within Latin American or other international payment markets.</li>
+    <li>Familiarity with cross-border payment compliance, local payment methods, and payment risk management.</li>
     </ul>`,
     Compensation: `<ul style="list-style-type: disc; padding-left: 20px;margin-bottom:5px;font-weight:600">
     <li>Competitive salary + performance-based bonuses</li>
