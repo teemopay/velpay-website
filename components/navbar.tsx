@@ -203,7 +203,7 @@ export const Navbar = () => {
                 href="/Faq"
                 onClick={clearMenu}
               >
-                FA&Q
+                FAQ
               </NextLink>
             </div>
           </div>

@@ -425,7 +425,7 @@ const PaymentDemo = () => {
                       className=" w-[114px] h-[23px]  sm:w-[200px] lg:w-[312px] sm:h-[46px] text-[#1A1A18] in-tag-bg  text-[12px] sm:text-[20px]"
                       radius="full"
                     >
-                      Comfirm
+                      Confirm
                     </Button>
                   </NextLink>
                 </div>
@@ -474,7 +474,7 @@ const PaymentDemo = () => {
                       className=" w-[114px] h-[23px]  sm:w-[200px] lg:w-[312px] sm:h-[46px] text-[#1A1A18] bg-[#DEFE66] text-[12px] sm:text-[20px]"
                       radius="full"
                     >
-                      Comfirm
+                      Confirm
                     </Button>
                   </NextLink>
                 </div>

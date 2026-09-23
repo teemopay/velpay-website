@@ -106,11 +106,11 @@ export default function AboutPage() {
                   }}
                   isRequired
                   variant="bordered"
-                  errorMessage="Please enter your full Name"
+                  errorMessage="Please enter your full name"
                   label="Full Name"
                   labelPlacement="outside"
                   name="fullName"
-                  placeholder="Please enter your full Name"
+                  placeholder="Please enter your full name"
                   isClearable
                 />
                 <Input

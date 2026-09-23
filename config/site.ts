@@ -232,7 +232,7 @@ export const MobileNavbarList = [
         target: "_self",
       },
       {
-        title: "FA&Q",
+        title: "FAQ",
         href: "/Faq",
         id: 22,
         target: "_self",
