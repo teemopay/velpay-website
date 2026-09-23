@@ -31,7 +31,7 @@ export default function AboutPage() {
           <div className="text-[24px] leading-[30px] sm:text-[36px] sm:leading-[54px] md:text-[48px] md:leading-[72px] text-white font-semibold  mb-[28px]">
             Your Trusted Global Payment Solutions Provider
           </div>
-          <SubItem title="Vellpay is a financial technology company focused on building secure, efficient, and reliable payment infrastructure for businesses across supported markets. Our current payment network covers five key markets: Brazil, Argentina, Korea, Vietnam, and Cambodia, connecting businesses with local payment channels and locally preferred payment methods across Latin America and Asia."></SubItem>
+          <SubItem title="Vellpay is a financial technology company focused on building secure, efficient, and reliable payment infrastructure for businesses across supported markets. Our current payment network covers eight key markets: Brazil, Argentina, Colombia, India, Korea, Indonesia, Vietnam, and Cambodia, connecting businesses with local payment channels and locally preferred payment methods across Latin America and Asia."></SubItem>
 
           <SubItem title="We understand that modern businesses require more than payment processing. They need stable access to local payment channels, efficient fund collection and payout capabilities, reliable transaction visibility, and technology infrastructure designed to support cross-border operations. Vellpay brings these capabilities together through a unified payment solution built around the needs of businesses operating across markets."></SubItem>
 
@@ -68,7 +68,7 @@ export default function AboutPage() {
             />
           </div>
 
-          <SubItem title="Starting with Brazil, Argentina, Korea, Vietnam, and Cambodia, Vellpay is continuously strengthening its payment technology, local connectivity, and operational capabilities. Our goal is to become a trusted financial technology partner for businesses—helping them simplify payments, improve operational efficiency, and connect with new opportunities across international markets."></SubItem>
+          <SubItem title="Starting with Brazil, Argentina, Colombia, India, Korea, Indonesia, Vietnam, and Cambodia, Vellpay is continuously strengthening its payment technology, local connectivity, and operational capabilities. Our goal is to become a trusted financial technology partner for businesses—helping them simplify payments, improve operational efficiency, and connect with new opportunities across international markets."></SubItem>
         </div>
         <BtnLink />
       </PageContanier>
