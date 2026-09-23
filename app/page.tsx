@@ -454,7 +454,7 @@ const PaymentDemo = () => {
             }
           >
             <div className="bg-[#22251C] rounded-[16px]">
-              <div className="pt-[17px] pb-[25px] md:pt-[30px] md:pb-[22px] px-[12px] md:px-[50px] min-h-[325px]">
+              <div className="pt-[17px] pb-[25px] md:pt-[30px] md:pb-[22px] px-[12px] md:px-[50px] md:min-h-[325px]">
                 <InextImage
                   className="mx-auto"
                   alt="aml"
