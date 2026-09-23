@@ -203,7 +203,7 @@ export default function InPage() {
         </FadeIn>
 
         <FadeIn>
-          <div className="country-head-bg md:pt-[46px] md:pl-[44px]  md:max-w-[1500px] md:h-[469px] md:bg-[url('/images/join/2.png')] md:rounded-[20px]">
+          <div className="country-head-bg md:pt-[46px] md:pl-[44px]  md:max-w-[1200px] md:h-[469px] md:bg-[url('/images/join/2.png')] md:rounded-[20px]">
             <div className="font-semibold text-[32px] leading-[37px] 2xl:text-[44px] 2xl:leading-[48px] text-white md:mb-[72px]  mb-[40px]">
               <FadeText>Join now and enjoy</FadeText>
             </div>

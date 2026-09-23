@@ -27,7 +27,7 @@ const FirstSection = () => {
         className="flex h-full items-center"
       >
         <div className="max-w-[780px]">
-          <FadeUPText className="mb-[22px] max-w-[416px] text-[32px] font-semibold leading-[37px] md:text-[33px] md:leading-[53px] lg:mb-[33px] xl:text-[48px] xl:leading-[68px] 2xl:max-w-[780px]">
+          <FadeUPText className="mb-[22px] text-[32px] font-semibold leading-[37px]  lg:mb-[33px] md:text-[48px] md:leading-[68px]  md:max-w-[400px]">
             Speedy and cost-effective global payouts
           </FadeUPText>
           <FadeUPText

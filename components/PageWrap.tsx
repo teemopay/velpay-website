@@ -9,7 +9,7 @@ type Props = {
 
 export const PageWrap = ({ children }: { children: React.ReactNode }) => {
   return (
-    <div className="relative max-w-[1500px] box-content  mx-auto px-[20px] md:px-[60px]">
+    <div className="relative max-w-[1200px] box-content  mx-auto px-[20px] md:px-[60px]">
       {children}
     </div>
   );
@@ -28,8 +28,8 @@ export const PageContanier = ({
     <div className={cn("px-[20px] sm:px-[60px] md:px-[100px]", pclassName)}>
       <div
         className={cn(
-          "relative lg:max-w-[1000px] 2xl:max-w-[1500px] box-content mx-auto",
-          className
+          "relative lg:max-w-[1000px] 2xl:max-w-[1200px] box-content mx-auto",
+          className,
         )}
       >
         {children}

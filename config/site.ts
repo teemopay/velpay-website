@@ -248,21 +248,21 @@ export const MobileNavbarList = [
 ];
 
 export const AppsList = [
-  {
-    id: 1,
-    href: "https://x.com/vellpay",
-    target: "_blank",
-  },
-  {
-    id: 3,
-    href: "https://www.linkedin.com/company/vellpay",
-    target: "_blank",
-  },
-  {
-    id: 4,
-    href: "https://www.instagram.com/vellpay_mkt/",
-    target: "_blank",
-  },
+  // {
+  //   id: 1,
+  //   href: "https://x.com/vellpay",
+  //   target: "_blank",
+  // },
+  // {
+  //   id: 3,
+  //   href: "https://www.linkedin.com/company/vellpay",
+  //   target: "_blank",
+  // },
+  // {
+  //   id: 4,
+  //   href: "https://www.instagram.com/vellpay_mkt/",
+  //   target: "_blank",
+  // },
   {
     id: 5,
     href: "mailto:service@vellpay.com",

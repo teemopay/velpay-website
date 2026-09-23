@@ -1,5 +1,6 @@
 "use client";
-import { useState } from "react";
+import { useState, type ReactNode } from "react";
+import * as motion from "motion/react-client";
 import { cn } from "@/lib/utils";
 import InextImage from "next/image";
 import {
@@ -149,6 +150,18 @@ const TrustedItem = () => {
   );
 };
 
+// Keep the glass backdrop visible throughout the cards' entrance animation.
+const WorldWideCardReveal = ({ children }: { children: ReactNode }) => (
+  <motion.div
+    initial={{ scale: 0.85, translateY: 40 }}
+    whileInView={{ scale: 1, translateY: 0 }}
+    transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }}
+    style={{ transformOrigin: "bottom center" }}
+  >
+    {children}
+  </motion.div>
+);
+
 const WordWide = () => {
   return (
     <section
@@ -174,7 +187,7 @@ const WordWide = () => {
 
         <div className="relative">
           <div className=" grid grid-cols-1 lg:grid-cols-2 gap-x-[22px] gap-y-[20px]  mb-[20px]">
-            <FadeIn>
+            <WorldWideCardReveal>
               <NextLink className="block" href="/Payins">
                 <div
                   className={cn(
@@ -207,8 +220,8 @@ const WordWide = () => {
                   ></InextImage>
                 </div>
               </NextLink>
-            </FadeIn>
-            <FadeIn>
+            </WorldWideCardReveal>
+            <WorldWideCardReveal>
               <NextLink className="block" href="/Payouts">
                 <div
                   className={cn(
@@ -241,7 +254,7 @@ const WordWide = () => {
                   ></InextImage>
                 </div>
               </NextLink>
-            </FadeIn>
+            </WorldWideCardReveal>
           </div>
           <Image
             className="pointer-events-none absolute left-1/2 top-1/2 z-0 h-auto w-screen max-w-[1536px] -translate-x-1/2 -translate-y-1/2 object-contain object-center"
@@ -251,7 +264,7 @@ const WordWide = () => {
             src="/images/payins/flur.png"
             width={1536}
           />
-          <FadeIn>
+          <WorldWideCardReveal>
             <div
               className={cn(
                 "home-word-bg overflow-hidden rounded-2xl lg:flex lg:flex-row lg:items-center",
@@ -281,7 +294,7 @@ const WordWide = () => {
                 </video>
               </div>
             </div>
-          </FadeIn>
+          </WorldWideCardReveal>
         </div>
       </div>
     </section>

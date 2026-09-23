@@ -55,7 +55,7 @@ export const Navbar = () => {
         ref={wrapperRef}
       >
         <div className="w-full relative h-[88px] flex justify-center">
-          <div className="w-full relative h-full flex items-center justify-between max-w-[1000px] 2xl:max-w-[1500px] bg-[#1A1A18] mx-[20px] sm:mx-[60px] md:mx-[100px] box-border cursor-pointer">
+          <div className="w-full relative h-full flex items-center justify-between max-w-[1000px] 2xl:max-w-[1200px] bg-[#1A1A18] mx-[20px] sm:mx-[60px] md:mx-[100px] box-border cursor-pointer">
             <NextLink className="block shrink-0 cursor-pointer" href="/">
               <Image
                 alt="HeroUI hero Image with delay"
@@ -113,7 +113,7 @@ export const Navbar = () => {
           </div>
           {/* 子级菜单 */}
           <div className="navbar-child  w-full absolute top-full flex justify-center">
-            <div className="w-full lg:max-w-[1000px] 2xl:max-w-[1500px]  flex justify-start items-center cursor-pointer">
+            <div className="w-full lg:max-w-[1000px] 2xl:max-w-[1200px]  flex justify-start items-center cursor-pointer">
               <div className="navbar-child-title">Our solution</div>
               <NextLink
                 className={`navbar-child-item pr-[30px] xl:pr-[60px] 2xl:pr-[76px] ${
@@ -136,7 +136,7 @@ export const Navbar = () => {
             </div>
           </div>
           <div className="navbar-child  w-full absolute top-full flex justify-center ">
-            <div className="w-full lg:max-w-[1000px] 2xl:max-w-[1500px]  flex justify-start items-center">
+            <div className="w-full lg:max-w-[1000px] 2xl:max-w-[1200px]  flex justify-start items-center">
               <div className="navbar-child-title">Company</div>
               <NextLink
                 className={`navbar-child-item pr-[30px] xl:pr-[60px] 2xl:pr-[76px] ${
@@ -185,7 +185,7 @@ export const Navbar = () => {
             </div>
           </div>
           <div className="navbar-child  w-full absolute top-full flex justify-center">
-            <div className="w-full lg:max-w-[1000px] 2xl:max-w-[1500px]  flex justify-start items-center">
+            <div className="w-full lg:max-w-[1000px] 2xl:max-w-[1200px]  flex justify-start items-center">
               <div className="navbar-child-title">Support</div>
               <NextLink
                 className={`navbar-child-item pr-[30px] xl:pr-[60px] 2xl:pr-[76px] ${

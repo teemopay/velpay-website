@@ -256,16 +256,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="9.7465" y="21.0981" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_2_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="accent_2"
             filter="url(#filter2_i_4362_23934)"
@@ -276,16 +266,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="33.433" y="7.77385" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_3_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="glass_2"
             filter="url(#filter3_i_4362_23934)"
@@ -302,16 +282,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="33.433" y="34.4223" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_4_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="glass_3"
             filter="url(#filter5_i_4362_23934)"
@@ -328,16 +298,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="9.7465" y="47.7465" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_5_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="glass_4"
             filter="url(#filter7_i_4362_23934)"
@@ -354,16 +314,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="-13.943" y="34.4223" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_6_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="glass_5"
             filter="url(#filter9_i_4362_23934)"
@@ -380,16 +330,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="-13.943" y="7.77385" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_7_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="glass_6"
             filter="url(#filter11_i_4362_23934)"
@@ -406,16 +346,6 @@ export const PayinFive = ({ ...props }) => {
               fill="#E2F4A5"
             />
           </g>
-          <foreignObject x="9.7465" y="-5.55037" width="116.71" height="116.71">
-            <div
-              style={{
-                backdropFilter: "blur(25.48px)",
-                clipPath: "url(#bgblur_8_4362_23934_clip_path)",
-                height: "100%",
-                width: "100%",
-              }}
-            />
-          </foreignObject>
           <g
             id="glass_7"
             filter="url(#filter13_i_4362_23934)"
