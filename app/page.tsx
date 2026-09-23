@@ -283,7 +283,7 @@ const WordWide = () => {
               </div>
               <div className="flex items-end pt-[35px] pl-[34px] ">
                 <video
-                  className="w-full object-cover rounded-tl-[8px] 2xl:max-w-[800px]"
+                  className="w-full object-cover rounded-tl-[20px] 2xl:max-w-[800px]"
                   autoPlay={true}
                   loop
                   muted

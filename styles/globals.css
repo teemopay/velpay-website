@@ -124,6 +124,7 @@ body {
   width: 89px;
   height: 100%;
   background: linear-gradient(270deg, #1a1a18 0%, rgba(0, 0, 0, 0) 100%);
+  right: -1px;
 }
 
 /* 导航栏样式 */
