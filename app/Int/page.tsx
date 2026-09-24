@@ -235,8 +235,8 @@ export default function IntPage() {
       c: "for real-time notifications on success, failure, fraud alerts, and dispute events",
     },
     {
-      t: "Embedded Compliance Intelligence ",
-      c: "including risk scoring, transaction profiling, and AML linkages",
+      t: "Real-Time Payment Visibility",
+      c: "including transaction status tracking, payment monitoring, and operational insights",
     },
     {
       t: "Embedded Compliance Intelligence ",
