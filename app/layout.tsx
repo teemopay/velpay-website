@@ -11,8 +11,10 @@ export const metadata: Metadata = {
     "Vellpay_Global Payment Solutions | LATAM Local Payments | Local Acquiring | FX & Local Currency Settlement | iGaming",
   keywords:
     "Vellpay, global payment service, mobile payment, cross-border payment, payment solution,Mexico,Credit Cards (Visa, MasterCard, American Express),Debit Cards,OXXO Payments (convenience store payments),PayPal,MercadoPago,SPEI,Colombia,Credit Cards (Visa, MasterCard),Debit Cards,Bank Transfer (PSE),Nequi,PayU,Tpaga,Wompi,Peru,Credit Cards (Visa, MasterCard),Debit Cards,PagoEfectivo (cash payment service),Yape (e-wallet),Plin (instant transfer service),Payvalida,Kushki,Tupay,Chile,Credit Cards (Visa, MasterCard, American Express),Debit Cards (Redcompra),WebPay (online payment platform),Khipu (bank transfer),Brazil,Credit Cards (Visa, MasterCard, Elo),Debit Cards,Boleto Bancário (payment slip),Pix (instant payment system),Pakistan,Credit Cards (Visa, MasterCard),Debit Cards,Easypaisa (mobile wallet),JazzCash (mobile payment),Bank Transfers,Indonesia,Credit Cards (Visa, MasterCard),Debit Cards,Qris (QR code payments),OVO (e-wallet),GoPay (mobile payment),24/7 customer support , low transaction fees",
+
   description:
     "Vellpay provides advanced payment solutions across Mexico, Colombia, Peru, Chile, Brazil, Pakistan, and Indonesia. We support a variety of payment methods including credit cards, debit cards, OXXO payments, PSE, Boleto Bancário, Easypaisa, Qris, and more. Enjoy a convenient and secure transaction experience with our 24/7 customer support and low transaction fees, making it easy to manage your payment needs!",
+
   icons: {
     icon: "/favicon.ico",
   },

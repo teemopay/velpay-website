@@ -68,7 +68,7 @@ export const siteConfig = {
     {
       id: 2,
       label: "Check out our content",
-      href: "/MX",
+      href: "/BR",
     },
     {
       id: 3,
