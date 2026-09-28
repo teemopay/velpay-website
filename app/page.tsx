@@ -329,7 +329,7 @@ const PaymentDemo = () => {
         <NextLink
           className="relative block"
           target="_blank"
-          href="https://drive.google.com/drive/folders/1PPM2Dq_-7-ITnLxPVxaTtEZ9R5u71hb_?usp=sharing"
+          href="https://drive.google.com/drive/folders/1FDD5uaZk1YFFp_HNG4MsVfFhYw_73kvO"
         >
           <InextImage
             className=" lg:max-w-[561px] 2xl:max-w-[800px] rounded-[20px]"
